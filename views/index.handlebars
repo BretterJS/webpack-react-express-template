@@ -1,0 +1,14 @@
+<h2>Index Page</h2>
+
+
+{{#unless displayHelp}}
+
+  <h2>{{hello}}</h2>
+
+{{/unless}}
+
+{{#if displayTemplate}}
+<h3>Template Engine Being Rendered: {{templateEngine}}</h3>
+{{else}}
+<h3>Template Not Displayed</h3>
+{{/if}}
