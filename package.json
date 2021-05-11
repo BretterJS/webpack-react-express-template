@@ -52,7 +52,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
     "fs-extra": "^8.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "method-override": "^3.0.0",
     "mysql": "^2.18.1",
     "prop-types": "^15.7.2",
